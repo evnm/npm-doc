@@ -1,1 +1,1 @@
-module.exports = require('.lib/npm-doc');
+module.exports = require('./lib/npm-doc');
