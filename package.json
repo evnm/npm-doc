@@ -1,0 +1,23 @@
+{
+  "name": "npm-doc",
+  "description": "A fetcher of npm package documentation",
+  "version": "0.0.0",
+  "author": "Evan Meagher <evan.meagher@gmail.com> (http://evanmeagher.net)",
+  "main": "index",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git"
+    ,"url": "http://github.com/evnm/npm-doc.git"
+  },
+  "dependencies": {
+    "npm": ">=0.2.0 < 1.0.0"
+  },
+  "scripts": {
+    "test": "expresso"
+  },
+  "engines": {
+    "node": ">=0.2.0"
+  }
+}
